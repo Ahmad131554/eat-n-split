@@ -54,7 +54,7 @@
 ### Installation
 
 ````bash
-git clone https://github.com/yourusername/eat-n-split.git
+git clone https://github.com/Ahmad131554/eat-n-split.git
 cd eat-n-split
 npm install
 
